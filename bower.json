@@ -1,0 +1,23 @@
+{
+  "name": "drag",
+  "authors": [
+    "Sean McAuliffe <smcauliffe2@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "interact": "^1.2.6"
+  },
+  "devDependencies": {
+    "lodash": "^4.15.0"
+  }
+}
